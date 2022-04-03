@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.js": "/portfolio/static/js/main.c70b57e0.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.c70b57e0.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.59c330ae.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.59c330ae.js.map",
+    "static/css/2.c268c7e3.chunk.css": "/portfolio/static/css/2.c268c7e3.chunk.css",
+    "static/js/2.6d44dbb0.chunk.js": "/portfolio/static/js/2.6d44dbb0.chunk.js",
+    "static/js/2.6d44dbb0.chunk.js.map": "/portfolio/static/js/2.6d44dbb0.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/2.c268c7e3.chunk.css.map": "/portfolio/static/css/2.c268c7e3.chunk.css.map",
+    "static/js/2.6d44dbb0.chunk.js.LICENSE.txt": "/portfolio/static/js/2.6d44dbb0.chunk.js.LICENSE.txt",
+    "static/media/Montserrat-Bold.079ca05d.ttf": "/portfolio/static/media/Montserrat-Bold.079ca05d.ttf",
+    "static/media/Montserrat-SemiBold.fa8441f3.ttf": "/portfolio/static/media/Montserrat-SemiBold.fa8441f3.ttf",
+    "static/media/RobotoMono-Regular.418a8f9f.ttf": "/portfolio/static/media/RobotoMono-Regular.418a8f9f.ttf",
+    "static/media/Sharan_Resume.72a8b264.pdf": "/portfolio/static/media/Sharan_Resume.72a8b264.pdf",
+    "static/media/about-page-img.82952af9.png": "/portfolio/static/media/about-page-img.82952af9.png",
+    "static/media/about-sec-img.132b2f84.png": "/portfolio/static/media/about-sec-img.132b2f84.png",
+    "static/media/cointracker.8da9e0cd.jpg": "/portfolio/static/media/cointracker.8da9e0cd.jpg",
+    "static/media/hero.040e0179.png": "/portfolio/static/media/hero.040e0179.png",
+    "static/media/map.facd5352.PNG": "/portfolio/static/media/map.facd5352.PNG",
+    "static/media/portfolio.add74b57.PNG": "/portfolio/static/media/portfolio.add74b57.PNG",
+    "static/media/projectImg.771236e1.png": "/portfolio/static/media/projectImg.771236e1.png",
+    "static/media/scroll-down-arrow.b013ca45.svg": "/portfolio/static/media/scroll-down-arrow.b013ca45.svg",
+    "static/media/social-media-arrow.f5e093ce.svg": "/portfolio/static/media/social-media-arrow.f5e093ce.svg",
+    "static/media/socialMedia.dab28643.jpg": "/portfolio/static/media/socialMedia.dab28643.jpg",
+    "static/media/utracker.be1fe64a.jpg": "/portfolio/static/media/utracker.be1fe64a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59c330ae.js",
+    "static/css/2.c268c7e3.chunk.css",
+    "static/js/2.6d44dbb0.chunk.js",
+    "static/js/main.c70b57e0.chunk.js"
+  ]
+}
